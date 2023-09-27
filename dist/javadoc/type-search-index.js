@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ClasesYObjetos","l":"CalculoSalario"},{"p":"ClasesYObjetos","l":"Salario"}];updateSearchResults();
